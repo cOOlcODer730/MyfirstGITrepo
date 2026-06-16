@@ -4,7 +4,7 @@ public class snow {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hi Snow");
+		System.out.println("Hi Snow..!");
 	}
 
 }
